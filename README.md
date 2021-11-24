@@ -1,6 +1,6 @@
 # NgFundamentals
 
-Angular Fundamentals Learning Rurorial App From Pluralsight
+Angular Fundamentals Learning Tutorial App From Pluralsight
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
