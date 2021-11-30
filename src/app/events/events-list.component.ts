@@ -14,7 +14,7 @@ import {Component} from "@angular/core";
 export class EventListComponent {
   eventItem = {
     id: 1,
-    name: 'Angular Connect Workshop',
+    name: 'Angular Connect',
     date: '9/26/2036',
     time: '10:00 am',
     price: 599.99,
